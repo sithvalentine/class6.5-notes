@@ -135,7 +135,7 @@ Instructions:
 Questions to consider:
 - What is autoscaling and how does this help us do it?
 - What is autohealing and how does this help us?
-- How does this help us minmize costs? 
+- How does this help us minimize costs? 
 - How does it know when to scale? 
 
 Instructions:
@@ -150,7 +150,7 @@ Instructions:
      - Click on drop down menu for health check and click create health check
      - in right hand menu that opens
      - name it
-     - change check interval to 10 s, and unhealth threshold to 3 
+     - change check interval to 10 seconds, and unhealthy threshold to 3 
      - save
      - ensure health check is selected in instance group 
 7. Click **Create**
